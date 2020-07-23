@@ -4,4 +4,4 @@
 
 This is a place to play with stochastic differential equations in jupyter notebooks.
 
-1 . a random walk in 1 dimension 
+1 . a random walk in 1 dimension https://colab.research.google.com/github/robot144/sde/blob/master/1_radom_walk.ipynb
